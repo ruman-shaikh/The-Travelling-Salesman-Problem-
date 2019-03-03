@@ -1,0 +1,270 @@
+The city list is
+Kolkata
+Delhi
+Bengalore
+Mumbai
+The cost matrix is
+0	4	1	3	
+4	0	2	1	
+1	2	0	5	
+3	1	5	0	
+The starting city is Kolkata
+The final path is
+Kolkata--->Bengalore--->Delhi--->Mumbai--->Kolkata
+Minimum distance required to travel is 7
+
+The city list is
+Kolkata
+Delhi
+Bangalore
+Mumbai
+The cost matrix is
+1	4	1	3	
+4	0	2	1	
+1	2	0	5	
+3	1	5	0	
+The starting city is Bangalore
+The final path is
+Bangalore--->Kolkata--->Mumbai--->Delhi--->Bangalore
+Minimum distance required to travel is 7
+
+The city list is
+A
+B
+C
+D
+The cost matrix is
+0	4	1	3	
+4	0	2	1	
+1	2	0	5	
+3	1	5	0	
+The starting city is A
+The final path is
+A--->C--->B--->D--->A
+Minimum distance required to travel is 7
+
+The city list is
+A
+B
+C
+The cost matrix is
+1	2	3	
+4	5	6	
+7	8	9	
+The starting city is A
+The final path is
+A--->B--->C--->A
+Minimum distance required to travel is 15
+
+The city list is
+A
+B
+C
+The cost matrix is
+1	2	3	
+4	5	6	
+7	8	9	
+The starting city is A
+The final path is
+A--->B--->C--->A
+Minimum distance required to travel is 15
+
+The city list is
+A
+B
+C
+D
+The cost matrix is
+0	4	1	3	
+4	0	2	1	
+1	2	0	5	
+3	1	5	0	
+The starting city is A
+The final path is
+A--->C--->B--->D--->A
+Minimum distance required to travel is 7
+==========================================
+The city list is
+A
+B
+C
+D
+E
+The cost matrix is
+0	9	8	7	6	
+5	0	4	3	2	
+1	10	0	11	12	
+13	14	15	0	16	
+17	18	19	20	0	
+The starting city is C
+The final path is
+C--->A--->E--->B--->D--->C
+Minimum distance required to travel is 43
+==========================================
+The city list is
+A
+B
+C
+D
+The cost matrix is
+0	1	2	3	
+4	0	5	6	
+7	8	0	9	
+1	2	3	0	
+The starting city is 
+The final path is
+--->--->A--->A--->
+Minimum distance required to travel is 0
+=====================================
+The city list is
+A
+B
+C
+D
+The cost matrix is
+0	1	2	3	
+4	0	5	6	
+7	8	0	9	
+10	12	13	0	
+The starting city is 
+The final path is
+--->--->A--->A--->
+Minimum distance required to travel is 0
+=====================================
+The city list is
+A
+B
+C
+D
+The cost matrix is
+0	4	1	3	
+4	0	2	1	
+1	2	0	5	
+3	1	5	0	
+The starting city is 
+The final path is
+--->--->A--->A--->
+Minimum distance required to travel is 0
+=====================================
+The city list is
+A
+B
+C
+D
+The cost matrix is
+0	1	2	3	
+4	0	5	6	
+7	8	0	9	
+10	11	12	0	
+The starting city is A
+The final path is
+A--->B--->C--->D--->A
+Minimum distance required to travel is 25
+=====================================
+The city list is
+A
+B
+C
+D
+The cost matrix is
+0	4	1	3	
+4	0	2	1	
+1	2	0	5	
+3	1	5	0	
+The starting city is A
+The final path is
+A--->C--->B--->D--->A
+Minimum distance required to travel is 7
+=====================================
+The city list is
+A
+B
+C
+D
+The cost matrix is
+0	1	2	3	
+4	0	5	6	
+7	8	0	9	
+10	11	12	0	
+The starting city is B
+The final path is
+B--->A--->C--->D--->B
+Minimum distance required to travel is 26
+=====================================
+The city list is
+A
+B
+C
+D
+The cost matrix is
+0	1	2	3	
+4	0	5	6	
+7	8	0	9	
+10	11	1	0	
+The starting city is A
+The final path is
+A--->B--->C--->D--->A
+Minimum distance required to travel is 25
+=====================================
+The city list is
+A
+B
+C
+D
+The cost matrix is
+0	4	2	3	
+4	0	2	1	
+1	2	0	5	
+3	1	5	0	
+The starting city is A
+The final path is
+A--->C--->B--->D--->A
+Minimum distance required to travel is 8
+=====================================
+The city list is
+A
+B
+C
+D
+The cost matrix is
+0	4	1	3	
+4	0	2	1	
+1	2	0	5	
+3	1	5	0	
+The starting city is B
+The final path is
+B--->D--->A--->C--->B
+Minimum distance required to travel is 7
+=====================================
+The city list is
+A
+B
+C
+D
+E
+F
+The cost matrix is
+0	5	4	2	8	6	
+5	0	4	9	3	7	
+4	4	0	10	11	4	
+2	9	10	0	15	9	
+8	3	11	15	0	16	
+6	7	9	4	16	0	
+The starting city is C
+The final path is
+C--->A--->D--->B--->E--->F--->C
+Minimum distance required to travel is 43
+=====================================
+The city list is
+A
+B
+C
+The cost matrix is
+0	2	1	
+2	0	4	
+1	3	0	
+The starting city is A
+The final path is
+A--->C--->B--->A
+Minimum distance required to travel is 6
+=====================================
