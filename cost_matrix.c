@@ -33,11 +33,11 @@ void input()
 		done[i]=0;
 	}
 	printf("\nThe cost matrix is:\n");
-    for(i=0;i<n;i++) //printing the cost matrix
+    	for(i=0;i<n;i++) //printing the cost matrix
 	{
-        for(k=0;k<n;k++)
-        {
-        	printf("\t%d", arr[i][k]);
+        	for(k=0;k<n;k++)
+        	{
+        		printf("\t%d", arr[i][k]);
 		}
 		printf("\n");
 	}
